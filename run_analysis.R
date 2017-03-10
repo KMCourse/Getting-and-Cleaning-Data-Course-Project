@@ -1,6 +1,6 @@
 #=============================
 #  Subject: Getting and Cleaning Data Course Project
-#  Author : Karim Mohammadi
+#  Author : KMCourse
 #  Data   : 09/03/2017 
 #=============================
 
